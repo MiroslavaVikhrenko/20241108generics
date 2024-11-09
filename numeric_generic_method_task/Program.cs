@@ -14,22 +14,22 @@ namespace numeric_generic_method_task
         static void Main(string[] args)
         {
             int[] array = { 1, 2, 3, 4, 5 };
-            //var result = Sum(array);
+            var result = Sum(array);
 
-            //Console.WriteLine(result);
+            Console.WriteLine(result);
             Console.ReadLine();
         }
 
-        //static T Sum<T>(IEnumerable<T> values) where T : INumber<T>
-        //{
-        //    T sum = default;
+        static T Sum<T>(IEnumerable<T> values) where T : INumber<T>
+        {
+            T sum = default;
 
-        //    foreach (var value in values)
-        //    {
-        //        sum += value;
-        //    }
+            foreach (var value in values)
+            {
+                sum += value;
+            }
 
-        //    return sum;
-        //}
+            return sum;
+        }
     }
 }
