@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Numeric_generic_method")]
+[assembly: AssemblyTitle("MyUniversalClass")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP")]
-[assembly: AssemblyProduct("Numeric_generic_method")]
+[assembly: AssemblyProduct("MyUniversalClass")]
 [assembly: AssemblyCopyright("Copyright © HP 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b536dd04-7d73-4de5-93b4-d5a6088e8aec")]
+[assembly: Guid("bd629a91-585a-468e-b0f8-436c59be64c2")]
 
 // Version information for an assembly consists of the following four values:
 //

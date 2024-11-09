@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B536DD04-7D73-4DE5-93B4-D5A6088E8AEC}</ProjectGuid>
+    <ProjectGuid>{BD629A91-585A-468E-B0F8-436C59BE64C2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Numeric_generic_method</RootNamespace>
-    <AssemblyName>Numeric_generic_method</AssemblyName>
+    <RootNamespace>MyUniversalClass</RootNamespace>
+    <AssemblyName>MyUniversalClass</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
